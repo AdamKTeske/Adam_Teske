@@ -5,9 +5,9 @@
 I have expertise with data analysis/visualization, query optimization, database design, and machine learning.
 
 ### 📊 Skills
-- Data queries with SQL
+- Data queries with SQL (MySQL, SQLite, SQL Server) 
 - In-depth analysis with RStudio and Python (matplotlib, pandas, seaborn)
-- Creating interactive dashboards and reports using Tableau and PowerBI
+- Creating interactive dashboards and reports using Tableau and Excel
 - Utilizing neural networks with Python (Scikit & TensorFlow)
 
 ### 📚 Projects
